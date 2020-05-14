@@ -1,4 +1,4 @@
-j# Dark-IG
+# Dark-IG
 # -*- coding: utf-8 -*-
 # coding=utf-8
 import socket,struct,os,sys,time,yagmail
